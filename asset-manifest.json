@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/landing_miami-in-react/static/css/main.073c9b0a.css",
-    "main.js": "/landing_miami-in-react/static/js/main.fab027bc.js",
-    "static/js/787.5c00aa5e.chunk.js": "/landing_miami-in-react/static/js/787.5c00aa5e.chunk.js",
-    "static/media/logo.svg": "/landing_miami-in-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/landing_miami-in-react/static/css/main.d3ea2317.css",
+    "main.js": "/landing_miami-in-react/static/js/main.c45f5a2f.js",
     "index.html": "/landing_miami-in-react/index.html",
-    "main.073c9b0a.css.map": "/landing_miami-in-react/static/css/main.073c9b0a.css.map",
-    "main.fab027bc.js.map": "/landing_miami-in-react/static/js/main.fab027bc.js.map",
-    "787.5c00aa5e.chunk.js.map": "/landing_miami-in-react/static/js/787.5c00aa5e.chunk.js.map"
+    "main.d3ea2317.css.map": "/landing_miami-in-react/static/css/main.d3ea2317.css.map",
+    "main.c45f5a2f.js.map": "/landing_miami-in-react/static/js/main.c45f5a2f.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.fab027bc.js"
+    "static/css/main.d3ea2317.css",
+    "static/js/main.c45f5a2f.js"
   ]
 }

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d3ea2317.css","mappings":"AAAA,MACE,4BAAgC,CAEhC,YACE,QAAS","sources":["index.scss"],"sourcesContent":[".page {\n  font-family: 'Inter', sans-serif;\n\n  &__body {\n    margin: 0;\n  }\n}\n"],"names":[],"sourceRoot":""}
